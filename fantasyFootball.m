@@ -29,7 +29,7 @@ RawData = '/Users/leapnirs/Desktop/football/fantasy/years_2015_fantasy_fantasy.c
 % Initialize variables.
 filename = RawData;
 delimiter = ',';
-startRow = 2;
+startRow = 3;
 
 % Read columns of data as strings:
 % For more information, see the TEXTSCAN documentation.
